@@ -418,7 +418,7 @@
                 <configuration>
                     <suiteXmlFiles>
                         <!-- Call Suite name global set up above -->
-                        <suiteXmlFile>src/test/resources/suites/Warehouse.xml</suiteXmlFile>
+                        <suiteXmlFile>src/test/resources/suites/Shrido.xml</suiteXmlFile>
                     </suiteXmlFiles>
 
                     <rerunFailingTestsCount>1</rerunFailingTestsCount>
