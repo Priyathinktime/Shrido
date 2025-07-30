@@ -2,7 +2,7 @@ name: Java CI with Maven
 
 on:
   schedule:
-    - cron: '35 10 * * *'  # 5:00 AM EST (10:00 UTC)
+    - cron: '40 10 * * *'  # 04:10 PM IST
   workflow_dispatch:     # Allows manual trigger from GitHub UI
 
 jobs:
